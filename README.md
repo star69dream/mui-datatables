@@ -17,21 +17,6 @@ Version 3 has been released! You can read about the [updates here](https://githu
 	<img src="https://user-images.githubusercontent.com/19170080/38026128-eac9d506-3258-11e8-92a7-b0d06e5faa82.gif" />
 </div>
 
-# Table of contents
-* [Install](#install)
-* [Demo](#demo)
-* [Usage](#usage)
-* [API](#api)
-* [Customize Columns](#customize-columns)
-* [Plug-ins](#plug-ins)
-* [Customize Styling](#customize-styling)
-* [Custom Components](#custom-components)
-* [Remote Data](#remote-data)
-* [Localization](#localization)
-* [Contributing](#contributing)
-* [License](#licence)
-* [Thanks](#thanks)
-
 ## Install
 
 `npm install mui-datatables --save`
